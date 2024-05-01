@@ -22,3 +22,7 @@ var myVar = "Hello, world!";
 ``` python
 print("Hello World!")
 ```
+## Example of task list using markdown.
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
